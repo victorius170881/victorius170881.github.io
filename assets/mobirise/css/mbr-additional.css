@@ -2825,7 +2825,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s1GV0J74er {
-  background-image: url("../../../assets/images/228.jpg");
+  background-image: url("../../../assets/images/242.jpg");
 }
 .cid-s1GV0J74er .mbr-media span {
   font-size: 48px;
@@ -7152,6 +7152,15 @@ section.lazy-placeholder:after {
   left: 0;
   width: 100%;
   overflow: hidden;
+}
+.cid-s2OKa34ZjW {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-s2OKa34ZjW .mbr-text,
+.cid-s2OKa34ZjW blockquote {
+  color: #767676;
 }
 .cid-s2DfG4sXO3 {
   padding-top: 45px;
